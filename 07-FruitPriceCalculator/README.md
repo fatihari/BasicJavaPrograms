@@ -1,4 +1,4 @@
-## 7-FruitPriceCalculator
+## 07-FruitPriceCalculator
 
 
 #### A program that prints the total price on the screen according to the kilogram values of the products purchased by the users from the grocery store has been designed.
