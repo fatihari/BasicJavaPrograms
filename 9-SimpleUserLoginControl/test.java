@@ -3,7 +3,7 @@ package SimpleUserLoginControl;
 import java.util.Scanner;
 
 /**
- *  @author Fatih ARI - 17.08.2021
+ *  @author Fatih ARI - 18.08.2021
  *  Login control and password reset processes of a user whose user name is "test" by default and "123" as password is designed.
  *
  */
