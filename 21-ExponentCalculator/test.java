@@ -1,7 +1,11 @@
 package ExponentCalculator;
-
 import java.util.Scanner;
-
+/**
+ *  @author Fatih ARI - 19.08.2021
+ * 
+ * A program is designed that calculates the exponential number with the values entered by the user using the for loop.
+ * 
+ */
 public class test {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
