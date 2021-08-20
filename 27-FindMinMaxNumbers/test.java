@@ -26,6 +26,7 @@ public class test {
                 min = number;
             i++;
         }
+        input.close();
         System.out.println("\nThe maximum number is: " + max);
         System.out.println("The minimumum number is: " + min);
     }
