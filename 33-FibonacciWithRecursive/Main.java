@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  *  @author Fatih ARI - 21.08.2021
  * 
- *  A program that finds the Fibonacci series, whose number of elements is taken from the user, is designed. 
+ *  A program that finds the Fibonacci series with recursive function, whose number of elements is taken from the user , is designed.
  * 
  */
 
