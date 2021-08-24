@@ -2,8 +2,8 @@ package palindromicWordChecker;
 
 import java.util.Scanner;
 
-/**
- * 
+/** 
+ * @author Fatih ARI - 25.08.2021
  * 
  *         A program is designed to find out whether the word entered by the user is "palindromic".
  *
@@ -20,7 +20,7 @@ public class Main {
             System.out.println("YES! The word \"" + str + "\" is a palindrome word.");
         else
             System.out.println("NO! The word \"" + str + "\" is NOT a palindrome word.");
-        
+        input.close();
     }
 
     private static boolean checkPalindrom(String str, boolean flag) 
